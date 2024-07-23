@@ -1,3 +1,5 @@
 .envrc
 .ipynb_checkpoints
 quantized_model.pth
+extracted_text.json.1
+migrate_script.sh
